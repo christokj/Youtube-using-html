@@ -1,0 +1,146 @@
+
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family:'poppins', sans-serif;;
+}
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+    font-size: 1.2490815576781777vw;
+}
+img{
+    cursor: pointer;
+}
+.flex-div{
+    display: flex;
+    align-items: center;
+    box-shadow: none;
+}
+nav{
+    padding: 10px 2%;
+    justify-content: space-between;
+    background-color: #fff;
+    position: fixed;
+    top:0;
+    z-index: 2;
+    width: 100%;
+}
+.nav-right img{
+    width: 1.8301610541727673vw;
+    margin-right: 1.8301610541727673vw;
+
+}
+.nav-right .icon-size{
+    width:2.9282576866764276vw;
+}
+.nav-right .user-icon{
+    width: 2.9282576866764276vw;
+    border-radius: 50%;
+    margin-right: 0;
+}
+.menu-icon{
+    width:  1.610541727672035vw;
+    
+}
+.mic-icon{
+    width:  3.6603221083455346vw;
+}
+.search-box{
+    border: 1px solid #ccc;
+    margin-right:  1.0980966325036603vw;
+    padding: 0.5856515373352855vw 0.8784773060029283vw;
+    border-radius:  1.8301610541727673vw;
+}
+input{
+    width:  40.26354319180088vw;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+}
+.text-search{
+    font-size: 1.4641288433382138vw;
+    
+}
+.search-icon{
+   width:  1.3177159590043923vwx;
+}
+
+.sidebar{
+    background-color: #fff;
+    width: 14%;
+    height: 44.436310395314784vw;
+    padding-left: 2%; 
+    position: absolute; 
+    padding-top:  3.6603221083455346vw;
+}
+.short-links a {
+    display: flex;
+   padding-top: 0.7320644216691069vw;
+   width: fit-content;
+   flex-wrap: wrap;
+   align-items: center;
+
+}
+.short-links p{
+    padding-top: 0.7320644216691069vw;
+    padding-left:  1.0980966325036603vw;
+}
+hr{
+    border:-1px ;
+}
+.subsrcibed-list a{
+display: flex;
+align-items: center;
+}
+.subsrcibed-list img{
+    width: 2.1961932650073206vw;
+    margin-top: 1.0980966325036603vw;
+    border-radius: 50%;
+    margin-right:  1.0980966325036603vw;
+
+}
+p{
+    font-size:  1.0980966325036603vw;
+    padding-top: 0.7320644216691069vw;
+}
+.container{
+    background-color: #fff;
+    padding-left: 17%;
+    padding-right: 0;
+    padding-top:   5.856515373352855vw;
+    padding-bottom: 1.4641288433382138vw;
+   
+}
+.pic-size{
+    width: 2.9282576866764276vw;
+    border-radius: 50%;
+   
+}
+.vid-list{
+    float: left;
+    padding-left: 0.7320644216691069vw;
+    padding-bottom: 0.7320644216691069vw;
+    padding-top: 0.7320644216691069vw;
+    
+}
+.thumbnail{
+    width: 26.23688155922039vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
